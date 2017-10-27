@@ -1,0 +1,11 @@
+{
+    "name": "lixlab/simple-html-dom",
+    "description": "A copy of the PHP Simple HTML DOM Parser project.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lixlab",
+            "email": "hello@lixlab.com"
+        }
+    ]
+}
