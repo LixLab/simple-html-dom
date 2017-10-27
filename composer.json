@@ -7,5 +7,10 @@
             "name": "Lixlab",
             "email": "hello@lixlab.com"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": [
+            "simple-html-dom.php"
+        ]
+    }
 }
